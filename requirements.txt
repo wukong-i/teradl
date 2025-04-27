@@ -3,3 +3,4 @@ tgcrypto
 aiohttp
 aria2p
 python-dotenv
+humanize
